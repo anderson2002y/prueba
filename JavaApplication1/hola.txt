@@ -1,0 +1,2 @@
+Probano el constructor con dos parametros y sobrescribiendo el archivo
+Estamos probando el append con el FileOutputStream!!
